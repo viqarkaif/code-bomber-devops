@@ -1,4 +1,7 @@
+
 # src/main.py
+# main.py
+print("This is a change!")
 
 import pygame
 import sys
