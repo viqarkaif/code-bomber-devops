@@ -1,3 +1,15 @@
 venv/
 __pycache__/
 *.pyc
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore system files (macOS, Windows)
+.DS_Store
+Thumbs.db
