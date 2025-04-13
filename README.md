@@ -96,3 +96,6 @@ How to create a feature branch for implementing new features.
 
 5. Commit History
 This shows the history of commits made with meaningful commit messages.
+![Screenshot 2025-04-13 213411](https://github.com/user-attachments/assets/ed900604-74e6-42c7-ac2f-6a5b514f35ea)
+![Screenshot 2025-04-13 213517](https://github.com/user-attachments/assets/410485f9-007b-440d-bb80-8245d19eb771)
+![Screenshot 2025-04-13 213608](https://github.com/user-attachments/assets/ea77933d-98ec-4fbd-a996-c91e439e99b2)
